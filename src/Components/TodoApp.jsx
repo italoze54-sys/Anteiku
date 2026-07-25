@@ -384,7 +384,7 @@ function TodoApp({notas}) {
                 <ul data-aos="fade-up">
                     <li><a href="#inicio">Inicio</a></li>
                     <li><a href="#productos">Productos</a></li>
-                    <li><a href="#cita">Cita</a></li>
+                    <li><a href="#galeria">Galería</a></li>
                     <li><a href="#contacto">Contacto</a></li>
                 </ul>       
             </div>            
