@@ -420,7 +420,7 @@ function TodoApp({notas}) {
                     />
                 </div>
 
-                <div className="infoProducto"  >
+                <div className="infoProducto">
                     <h3>{productos[indice].nombre}</h3>
                     <p>
                         {productos[indice].descripcion}
