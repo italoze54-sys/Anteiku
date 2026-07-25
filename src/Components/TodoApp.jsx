@@ -1,5 +1,5 @@
 import {useState,useRef, useEffect} from 'react';
-import fondo from '../assets/imagenes/finalfondo.png';
+import fondo from '../assets/imagenes/FinalFondo.png';
 import cafeteria from '../assets/imagenes/anteikucafeteria.png';
 import cafe from '../assets/imagenes/cafe.jpg';
 import latte from '../assets/imagenes/latte.jpg';
